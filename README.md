@@ -8,7 +8,9 @@
 - 📱 Mobile developer student (Kotlin)
 - 🧑‍⚕️ Psychologist
 - 📊 Interested in data analysis with R and SPSS.
-  
+- C2 English <a href="https://cert.efset.org/fY31xR">EF SET </a>
+
+   
 <br>
 
 ### 🛠 &nbsp;Tech Stack
