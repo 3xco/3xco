@@ -32,6 +32,6 @@
 
 <p align="center">
 <a href="https://github.com/3xco">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=3xco&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="210em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=3xco&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
