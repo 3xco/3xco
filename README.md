@@ -1,3 +1,5 @@
+<div id="header" align="center">
+    <img src="https://img.icons8.com/?size=100&id=2585&format=png&color=000000" width="200" />
 <div align="center">
 <h1 align="center">Hi, I am Michael </a> 🤝</h1>
 </div>
