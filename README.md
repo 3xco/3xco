@@ -9,8 +9,8 @@
 ## About me
 
 - 📱 Mobile developer student (Kotlin)
-- 🧑‍⚕️ Psychologist
-- 📊 Interested in data analysis with R and SPSS.
+- 🧑‍⚕️ Psychologist (Behavior Analysis)
+- 📊 Interested in data analysis (R & SPSS)
 - C2 English <a href="https://cert.efset.org/fY31xR">EF SET </a>
 
    
