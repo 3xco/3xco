@@ -26,7 +26,18 @@
 <a href="#"><img src="https://img.shields.io/badge/SPSS--_.svg?logo=spss"></a> <br>
 <a href="#"><img src="https://img.shields.io/badge/BORIS--_.svg?logo=boris"></a> <br>
 <a href="#"><img src="https://img.shields.io/badge/Visual Studio Code--_.svg?logo=visualstudiocode"></a> <br>
-<a href="#"><img src="https://img.shields.io/badge/R--_.svg?logo=r"></a>
+<a href="#"><img src="https://img.shields.io/badge/R--_.svg?logo=r"></a> <br>
+SQL
+
+Microsoft Excel
+
+Statistics
+
+Data visualization
+
+Presentation and communication skills
+
+Critical thinking
 
 
 
