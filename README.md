@@ -27,17 +27,11 @@
 <a href="#"><img src="https://img.shields.io/badge/BORIS--_.svg?logo=boris"></a> <br>
 <a href="#"><img src="https://img.shields.io/badge/Visual Studio Code--_.svg?logo=visualstudiocode"></a> <br>
 <a href="#"><img src="https://img.shields.io/badge/R--_.svg?logo=r"></a> <br>
-SQL
+<a href="#"><img src="https://img.shields.io/badge/SQL--_.svg?logo=SQL"></a> <br>
+<a href="#"><img src="https://img.shields.io/badge/Tableau--_.svg?logo=Tableau"></a> <br>
+<a href="#"><img src="https://img.shields.io/badge/Excel--_.svg?logo=MicrosoftExcel"></a> <br>
 
-Microsoft Excel
 
-Statistics
-
-Data visualization
-
-Presentation and communication skills
-
-Critical thinking
 
 
 
